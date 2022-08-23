@@ -11,7 +11,7 @@ body{
     min-height: 100vh;
 }
 
-div{
+form{
     border-radius:1.5em; 
     width: 70%;
     display: flex;
@@ -46,6 +46,7 @@ table input{
     border-radius: 10px;
     width: 95%;
     transition: 0.2s;
+    text-align: center;
 }
 
 table input:hover{
@@ -58,6 +59,7 @@ section input{
     border: none;
     border-radius: 10px;
     transition: 0.2s;
+    text-align: center;
 }
 
 section input:hover{
